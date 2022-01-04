@@ -15,6 +15,7 @@ print("はじめて")
         print("2かいめ")
         print("3回め")
         print("develop4回め")
+        print("develop5かいめ")
     }
 
 
