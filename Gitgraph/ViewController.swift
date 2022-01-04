@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 print("はじめて")
+        print("2かいめ")
     }
 
 
