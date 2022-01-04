@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 print("はじめて")
         print("2かいめ")
+        print("3回め")
     }
 
 
